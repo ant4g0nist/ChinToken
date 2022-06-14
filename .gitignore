@@ -1,0 +1,12 @@
+# chinstrap secret
+.secret
+
+# chinstrap build folder
+build/
+
+# python cache
+__pycache__/
+*__pycache__/
+
+# macOS
+.DS_Store

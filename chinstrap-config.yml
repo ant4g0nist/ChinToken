@@ -1,0 +1,9 @@
+chinstrap:
+  network:
+    development:
+      host: http://localhost:12345
+      accounts:
+        - privateKeyFile: ./.secret
+  compiler:
+    lang: smartpy
+    test: smartpy
